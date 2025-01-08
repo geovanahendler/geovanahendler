@@ -6,6 +6,4 @@
 ![Geovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanahendler&show_icons=true&theme=onedark)
 
 #### 🌟 Apaixonada por resolver problemas e criar soluções inovadoras.
-#### 💡 Aprendendo e explorando o vasto mundo da programação, com foco especial na linguagem JavaScript.
-#### 📚 Constantemente buscando conhecimento e aprimoramento. Atualmente, no quinto semestre do curso de Engenharia de Software.
 #### 🚧 Construindo meu caminho no universo da tecnologia, uma linha de código de cada vez.
